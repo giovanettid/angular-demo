@@ -1,2 +1,2 @@
 ### angular-seed
-### ui bootstrap
+### [ui bootstrap](https://github.com/angular/angular-seed)
